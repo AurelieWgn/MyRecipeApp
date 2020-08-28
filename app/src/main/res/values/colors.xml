@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_input">#F5F5F5</color>
+    <color name="rouge">#e45f4e</color>
+    <color name="bleu">#3f569b</color>
+    <color name="starsColor">#e79a3e</color>
+    <color name="backgroundStart">#adadaf</color>
+    <color name="black">#000000</color>
+    <color name="generalBackGround">#f2f5f6</color>
+</resources>

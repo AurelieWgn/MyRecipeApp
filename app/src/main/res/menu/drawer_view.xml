@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:background="@android:color/white"
+        android:checkableBehavior="single"
+        app:itemIconTint="@color/black"
+        app:itemTextColor="@color/colorPrimaryDark">
+        <item
+            android:id="@+id/nav_list_fragment"
+            android:icon="@drawable/recipe_icon"
+            android:title="Liste des recettes" />
+        <!--android:actionLayout="@layout/action_view_button"-->
+        <item
+            android:id="@+id/profil_fragment"
+            android:icon="@drawable/recipe_icon"
+            android:title="Mon Profil" />
+        <!-- <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/ic_three"
+            android:title="Mes favories" /> -->
+
+    </group>
+</menu>
